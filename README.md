@@ -27,6 +27,7 @@
 На данный момент прохожу курсы на сайте Netology Python - разробочик с нуля.
 
 **Наличие сертификатов и достижений связанных с программированием**
+
 1) https://stepik.org/cert/1619387 - сертификат для начинающих по Python.
 
 2) https://drive.google.com/file/d/1UfedXnsLR9ivsRRLF_5_DF0dvvQ_z7yE/view?usp=share_link  - Сертификат по основам языка программирования Python от Netology.
@@ -36,6 +37,8 @@
 4) Изучал ручное тестирование на Netology: https://drive.google.com/drive/u/0/folders/1sX4oGFCvEaVikjLncPliq0G3Gsfr2FkQ (Пример домашних работ)
 
 5) https://www.codewars.com/users/alexxkrava - примеры решенных задач и ранк на Codewars.
+
+6) https://github.com/alexxxkrava - примеры выполнения работ по Python.
 
 Имею опыт работы с группой людей, преподавал занятия по танцам.
 
